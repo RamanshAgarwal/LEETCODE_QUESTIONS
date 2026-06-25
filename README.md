@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
