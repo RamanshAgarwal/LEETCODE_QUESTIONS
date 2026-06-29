@@ -45,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3475-dna-pattern-recognition](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
