@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
+| [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
