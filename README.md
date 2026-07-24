@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
