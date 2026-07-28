@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
