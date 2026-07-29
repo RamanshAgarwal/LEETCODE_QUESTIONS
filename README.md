@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
