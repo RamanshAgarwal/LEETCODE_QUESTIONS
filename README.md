@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
