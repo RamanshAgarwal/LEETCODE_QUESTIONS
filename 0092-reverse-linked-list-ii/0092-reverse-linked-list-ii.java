@@ -1,6 +1,6 @@
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if (head == null || left == right)
+        if (head == null || head.next == null)
             return head;
         ListNode prev = null;
         ListNode curr = head;
