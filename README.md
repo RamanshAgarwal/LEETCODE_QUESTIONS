@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
