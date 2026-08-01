@@ -1,14 +1,14 @@
 class Solution {
-    public boolean isPowerOfTwo(int n) {
-          if (n <= 0)
+    public boolean isPowerOfTwo(int m) {
+          if (m <= 0)
             return false;
 
-        long power = 1;
+        long n = 1;
 
-        while (power < n) {
-            power <<= 1;
+        while (n < m) {
+            n <<= 1;
         }
 
-        return power == n;
+        return n == m;
     }
 }
