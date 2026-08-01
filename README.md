@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## String
 |  |
