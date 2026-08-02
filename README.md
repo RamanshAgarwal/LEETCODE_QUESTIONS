@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
