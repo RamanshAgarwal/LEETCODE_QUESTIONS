@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1393-capital-gainloss) |
 | [1517-find-users-with-valid-e-mails](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1517-find-users-with-valid-e-mails) |
