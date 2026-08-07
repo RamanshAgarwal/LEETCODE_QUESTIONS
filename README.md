@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3174-clear-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3174-clear-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
