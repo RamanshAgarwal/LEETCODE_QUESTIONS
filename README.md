@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0260-single-number-iii) |
+| [0503-next-greater-element-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
