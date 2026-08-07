@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
+| [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
