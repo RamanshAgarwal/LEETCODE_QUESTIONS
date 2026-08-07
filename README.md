@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -286,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
