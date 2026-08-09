@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
 | [3174-clear-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3174-clear-digits) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
