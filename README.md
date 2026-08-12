@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
