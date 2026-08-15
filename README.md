@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
