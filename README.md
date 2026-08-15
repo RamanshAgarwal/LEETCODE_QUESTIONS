@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
@@ -259,11 +260,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
