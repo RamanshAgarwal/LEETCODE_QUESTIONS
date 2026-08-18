@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
+| [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
