@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
