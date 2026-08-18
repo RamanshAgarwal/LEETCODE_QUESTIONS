@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0260-single-number-iii) |
+| [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
