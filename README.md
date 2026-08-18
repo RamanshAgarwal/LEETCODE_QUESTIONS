@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
