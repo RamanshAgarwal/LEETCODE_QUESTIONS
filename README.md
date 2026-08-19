@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
+| [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
+| [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -495,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0334-increasing-triplet-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
