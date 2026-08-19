@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
