@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3174-clear-digits) |
 ## Stack
 |  |
