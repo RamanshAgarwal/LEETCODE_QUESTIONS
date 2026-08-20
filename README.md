@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2000-reverse-prefix-of-word) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
