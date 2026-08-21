@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1672-richest-customer-wealth) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1688-count-of-matches-in-tournament](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
