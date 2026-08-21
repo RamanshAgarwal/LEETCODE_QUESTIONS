@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
+| [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
+| [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
