@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1496-path-crossing) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
