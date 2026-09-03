@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1927-sum-game) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
