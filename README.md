@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
