@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
 | ------- |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
 | ------- |
