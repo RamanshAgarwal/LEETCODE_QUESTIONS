@@ -1,8 +1,9 @@
 class Solution {
     public int minOperations(String s) {
+        int n = s.length();
         int count1 = 0; 
         int count2 = 0; 
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < n; i++) {
             char expected1;
             char expected2;
             if (i % 2 == 0) {
