@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
