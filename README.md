@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
 | [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
