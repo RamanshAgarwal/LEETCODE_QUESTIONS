@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
