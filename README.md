@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1025-divisor-game) |
 ## Game Theory
