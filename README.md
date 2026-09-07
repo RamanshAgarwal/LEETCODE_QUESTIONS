@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1927-sum-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2864-maximum-odd-binary-number) |
+| [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2007-find-original-array-from-doubled-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2007-find-original-array-from-doubled-array) |
 | [2540-minimum-common-value](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2540-minimum-common-value) |
+| [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -630,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0881-boats-to-save-people) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
