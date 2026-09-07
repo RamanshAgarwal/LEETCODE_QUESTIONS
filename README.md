@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
