@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
+| [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
