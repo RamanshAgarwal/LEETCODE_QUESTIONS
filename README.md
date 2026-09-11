@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1534-count-good-triplets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
