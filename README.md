@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
