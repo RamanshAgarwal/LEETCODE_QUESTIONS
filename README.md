@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
