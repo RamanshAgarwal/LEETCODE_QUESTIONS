@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3174-clear-digits) |
+| [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -700,4 +703,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
