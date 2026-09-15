@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Range Minimum/Maximum Query
