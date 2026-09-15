@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
