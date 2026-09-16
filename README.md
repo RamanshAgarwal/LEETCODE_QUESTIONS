@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0976-largest-perimeter-triangle) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -748,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
