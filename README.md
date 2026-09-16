@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1025-divisor-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 ## Segment Tree
 |  |
