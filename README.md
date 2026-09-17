@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0334-increasing-triplet-subsequence) |
+| [0477-total-hamming-distance](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
+| [0477-total-hamming-distance](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0861-score-after-flipping-matrix) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0477-total-hamming-distance](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
