@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3477-fruits-into-baskets-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1496-path-crossing](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Range Minimum/Maximum Query
