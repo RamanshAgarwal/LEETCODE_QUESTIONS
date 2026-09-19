@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0904-fruit-into-baskets) |
