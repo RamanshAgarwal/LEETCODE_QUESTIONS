@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Convex Hull
 |  |
 | ------- |
