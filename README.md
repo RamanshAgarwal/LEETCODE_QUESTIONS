@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
