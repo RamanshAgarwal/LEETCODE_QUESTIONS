@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0137-single-number-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0149-max-points-on-a-line) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
