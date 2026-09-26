@@ -8,12 +8,8 @@ class Solution {
             if(currentPrice < minPrice){
                 minPrice = currentPrice;
             }
-            else{
-                int profit  = currentPrice - minPrice;
-                if(profit > maxProfit){
-                    maxProfit = profit;
-                }
-            }
+            int profit = currentPrice-minPrice;
+            maxProfit = Math.max(maxProfit,profit);
         } 
         return maxProfit;
     }
