@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int remainder = target - nums[i];
             if(map.containsKey(remainder)){
-                return new int[]{map.get(remainder),i};
+                return new int[]{i,map.get(remainder)};
             }
             map.put(nums[i],i);
         }
