@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
