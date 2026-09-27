@@ -1,8 +1,8 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Arrays.sort(nums);
         int n = nums.length;
+        List<List<Integer>> answer = new ArrayList<>();
+        Arrays.sort(nums);
         for (int i = 0; i < n - 2; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
@@ -11,7 +11,7 @@ class Solution {
             int right = n - 1;
             while (left < right) {
                 if (nums[left] + nums[right] == -nums[i]) {
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    answer.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     while (left < right && nums[left] == nums[left + 1]) {
                         left++;
                     }
@@ -20,13 +20,13 @@ class Solution {
                     }
                     left++;
                     right--;
-                } else if (nums[left] + nums[right] < -(nums[i])) {
+                } else if (nums[left] + nums[right] < -nums[i]) {
                     left++;
                 } else {
                     right--;
                 }
             }
         }
-        return ans;
+        return answer;
     }
 }
