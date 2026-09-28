@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -823,4 +825,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
