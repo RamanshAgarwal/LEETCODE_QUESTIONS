@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0334-increasing-triplet-subsequence) |
 | [0477-total-hamming-distance](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0498-diagonal-traverse) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0334-increasing-triplet-subsequence) |
 ## Quicksort
 |  |
