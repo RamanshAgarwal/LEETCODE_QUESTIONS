@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2963-count-the-number-of-good-partitions](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2963-count-the-number-of-good-partitions) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
