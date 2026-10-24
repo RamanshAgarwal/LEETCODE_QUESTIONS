@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0918-maximum-sum-circular-subarray) |
