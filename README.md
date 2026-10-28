@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2326-spiral-matrix-iv) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
