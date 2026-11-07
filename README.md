@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1882-process-tasks-using-servers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
