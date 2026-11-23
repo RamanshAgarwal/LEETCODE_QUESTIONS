@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -926,4 +930,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RamanshAgarwal/LEETCODE_QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
